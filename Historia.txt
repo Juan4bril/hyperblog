@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Esta es la historia de Juan   
@@ -6,3 +7,10 @@ Juan Manuel Abril tiene 38 años y nacio en Venezuela
 pero soy ColomboVenezolano
 
 Hoy hablaremos de su historia 
+=======
+Esta es la Historia de Juan 
+
+tiene 36 años, nacio Venezuela, viviendo en España
+
+hoy hablamos de su vidad y de su historia
+>>>>>>> af339e8af39bf83f4410e8abae8f9ef2875f96b9
